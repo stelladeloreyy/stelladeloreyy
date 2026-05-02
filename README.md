@@ -1,4 +1,4 @@
-<img align="left" hspace="65" src="images/book-cat.png" width="250" />
+<img align="right" hspace="120" src="images/book-cat.png" width="250" />
 
 <br>
 
